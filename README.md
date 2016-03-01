@@ -1,6 +1,4 @@
-# loopback-component-passport
-
-**NOTE: This module supersedes [loopback-passport](https://www.npmjs.org/package/loopback-passport). Please update your package.json accordingly.**
+# neaty-component-passport
 
 The module provides integration between [LoopBack](http://loopback.io) and
 [Passport](http://passportjs.org) to support third-party login and account 
@@ -30,3 +28,13 @@ this._profileURL = options.profileURL ||
 ```
 
 All user required info including the email will be available, but the main email for the account will remain `uniqueID@loopback.facebook.com`.
+
+## Installation
+
+```sh
+$ npm install neaty-component-passport --save
+```
+
+## License
+
+MIT

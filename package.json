@@ -1,5 +1,5 @@
 {
-  "name": "loopback-component-passport",
+  "name": "neaty-component-passport",
   "description": "LoopBack passport integration to support third party logins and account linking",
   "keywords": [
     "StrongLoop",
@@ -31,7 +31,7 @@
     "underscore": "^1.8.2"
   },
   "peerDependencies": {
-    "loopback": "2.x || 1.x >=1.8.0"
+    "neaty": "2.x || 1.x >=1.8.0"
   },
   "devDependencies": {
     "loopback": "^2.14.0",
